@@ -1,0 +1,14 @@
+4th Nov
+
+1. Create a String class with miniumum 20 Methods
+2. Create a Math class with miniumum 5 Methods
+
+5th Nov
+
+1. Check the given number from the user is Prime or Not
+2. Print fibonacci series  0 1 1 2 3 5 8 13 21 34
+3. Check the number is Armstrong or not  127 = 1 pow 3 + 2 pow 3 + 7 pow 3 = 127 
+			373 = 27  +  343 + 27 = 373
+			
+4. Check the number is palindrome or not
+			12221 - Palindrome
