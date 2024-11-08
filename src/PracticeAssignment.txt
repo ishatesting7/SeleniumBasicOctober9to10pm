@@ -8,7 +8,18 @@
 1. Check the given number from the user is Prime or Not
 2. Print fibonacci series  0 1 1 2 3 5 8 13 21 34
 3. Check the number is Armstrong or not  127 = 1 pow 3 + 2 pow 3 + 7 pow 3 = 127 
-			373 = 27  +  343 + 27 = 373
-			
+			373 = 27  +  343 + 27 = 373		
 4. Check the number is palindrome or not
 			12221 - Palindrome
+
+6th Nov
+
+1. Around 10 values hardcoded in an array - Compute the Average, Max, Min and Sum?
+
+8th Nov 
+
+1. Check weather String is ANAGRAM
+2. Find the factorial of a number
+3. Array the array numbers in the ascending order or descending order 
+4. Find the largest of the Array value
+
