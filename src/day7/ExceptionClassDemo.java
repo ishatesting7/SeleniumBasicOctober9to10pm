@@ -21,6 +21,10 @@ public class ExceptionClassDemo {
 		 * 			Compile (check)
 		 * 				java.lang.ArrayIndexOutOfBoundsException:
 		 * 				jave.lang.SQLException
+		 * 
+		 * finally
+		 * 
+		 * - Whatever we write inside finally 
 		 */
 		//Exception e;
 		
@@ -28,11 +32,14 @@ public class ExceptionClassDemo {
 		try {
 		int m[] = {1,2,3};
 		System.out.println(m[5]);
-		} catch(Exception e)
+		} catch(ArrayIndexOutOfBoundsException | ArithmeticException e)
 		{
 			System.out.println("Cought Exception"+ e.getMessage());
 		}
-		
+		finally
+		{
+			System.out.println("Inside Finally");
+		}
 		System.out.println("Hello I am in Exception");
 		
 		try {
@@ -41,6 +48,13 @@ public class ExceptionClassDemo {
 		{
 			System.out.println("Cought Ex - "+ e.getMessage());
 		}
+		
+		/*
+		 * 
+		 * 
+		 * Throwing Exception
+		 * 
+		 */
 	}
 
 }
