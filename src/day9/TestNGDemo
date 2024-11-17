@@ -1,0 +1,20 @@
+
+TestNG
+------
+
+
+Test NEXT Generation
+
+Step 1 - 
+
+Include this into your framework
+Go to Help-> Eclipse MarketPlace ->Search TestNG
+
+Step 2 - 
+
+Include TESTNG Library
+Build Path -> Configure Build Path
+
+
+1. Annotations
+--------------
